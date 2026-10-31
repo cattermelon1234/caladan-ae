@@ -4,6 +4,9 @@ Updated October 20, 2026. Design and task outline only; backend implementation
 has not started in this checkout. For session recovery, also read
 [PROJECT_CONTEXT_README.md](PROJECT_CONTEXT_README.md).
 
+For the October 31 packet-path discussion and a concrete first implementation
+step, see [AF_XDP_BACKEND_DESIGN.md](AF_XDP_BACKEND_DESIGN.md).
+
 ## 1. Understand the repository
 
 | Directory / file | Purpose | Relevance |
